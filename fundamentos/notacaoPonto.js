@@ -38,7 +38,3 @@ coisa1.exec();
 coisa1.nome = 'Teclado';
 
 coisa1.exec();
-
-coisa1.nome = 'carta';
-
-coisa1.exec();
